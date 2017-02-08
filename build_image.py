@@ -7,7 +7,6 @@ reload(sys)
 sys.setdefaultencoding('utf-8')
 import random
 import string
-import sys
 import math
 from datetime import datetime
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
